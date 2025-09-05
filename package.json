@@ -15,8 +15,9 @@
     "migrate:foods": "node scripts/migrate.js foods",
     "migrate:users": "node scripts/migrate.js users",
     "migrate:user-foods": "node scripts/migrate-user-foods.js",
-    "build": "mkdir -p dist && cp -r server.js src scripts public package.json .env dist"
+    "build": "mkdir -p dist && cp -r server.js src scripts public package.json dist"
   },
+  
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "canvas": "^3.1.2",
