@@ -129,15 +129,17 @@ NutriStats is engineered to meet the demanding nutritional requirements of profe
 
 ## 🌐 Live Demo
 
-Experience NutriStats in action with our live deployment on Google Cloud Platform:
+Experience NutriStats in action with our live deployment:
 
-**🔗 Demo URL:** [http://34.59.48.42:8080](http://34.59.48.42:8080)
+**🔗 Demo URL:** [https://nutri-stats.baseecli.com/](https://nutri-stats.baseecli.com/)
 
 **Demo Credentials:**
 - **Email:** demo@nutristats.com
 - **Password:** NutriStats1
 
-> **Note:** This is a demonstration environment deployed on Google Cloud Platform. Feel free to explore all features including meal tracking, weight management, food database, and analytics reporting.
+> **⚠️ Security Notice:** The site uses a self-signed certificate, so your browser may show a security warning. This is safe to proceed - simply click "Advanced" and "Proceed to site" when prompted.
+
+> **Note:** This is a demonstration environment. Feel free to explore all features including meal tracking, weight management, food database, and analytics reporting.
 
 ### Demo Features Available:
 - ✅ Complete meal tracking and macro calculations
